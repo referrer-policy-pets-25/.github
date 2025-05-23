@@ -1,6 +1,6 @@
 # Referrer Policy: Implementation and Circumvention (PETS'25)
 
-This repository contains the [crawler code](https://github.com/referrer-policy-pets-25/RP-crawler) and [jupyter notebook](https://github.com/referrer-policy-pets-25/RP-Analyzer) for our paper [Referrer Policy: Implementation and Circumvention]()
+This repository contains the [crawler code](https://github.com/referrer-policy-pets-25/RP-crawler) and [Jupyter notebooks](https://github.com/referrer-policy-pets-25/RP-Analyzer) for our paper [Referrer Policy: Implementation and Circumvention]()
 
 ## Abstract
 
